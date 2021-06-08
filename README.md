@@ -1,2 +1,3 @@
 # deckmaster-emojis
-A deck of emojis for Deckmaster
+
+An emoji keyboard deck for Deckmaster
